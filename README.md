@@ -1,4 +1,5 @@
 # iColor
+[![EOL](https://img.shields.io/badge/Status-EOL-lightgrey.svg?style=flat-square)]()  
 A windows desktop color picker, can also make covertion between RGB and Hex
 ## Environment
 
