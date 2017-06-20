@@ -8,7 +8,7 @@ A windows desktop color picker, can also make covertion between RGB and Hex
     Packages:PyQt/pywin32
 
 ## Release
-[For Windows](http://www.jackeriss.com/works/iColor_1.0.0_Setup.exe)
+[For Windows](http://www.jackeriss.com/works/iColor.zip)
 ## Screenshots
 ![1](http://img.blog.csdn.net/20151106015205194)
 ![2](http://img.blog.csdn.net/20151106015215705)
